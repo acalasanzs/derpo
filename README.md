@@ -1,5 +1,3 @@
-# DERPO
-n-Dimensional Euclidean Renderer Python OpenGL
 <!--
 Nothing here
 -->
@@ -20,6 +18,10 @@ Nothing here
     <img alt="" src="https://img.shields.io/github/license/acsstudios/derpo.svg?style=for-the-badge" />
   <a/>
 </p>
+    
+# DERPO
+n-Dimensional Euclidean Renderer Python OpenGL
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
