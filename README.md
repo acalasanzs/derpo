@@ -18,19 +18,19 @@ Nothing here
     <img src="icon.png" alt="Icon" width="180" height="180">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">n-Dimensional Euclidean Renderer Python OpenGL</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A project to render any shape of any dimension including fractals
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/acsstudios/derpo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/acsstudios/derpo">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/acsstudios/derpo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/acsstudios/derpo/issues">Request Feature</a>
   </p>
 </p>
 
