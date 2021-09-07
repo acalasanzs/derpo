@@ -3,7 +3,7 @@ n-Dimensional Euclidean Renderer Python OpenGL
 <!--
 Nothing here
 -->
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][https://github.com/acsstudios/github-readme-stats]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
