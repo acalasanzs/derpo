@@ -43,6 +43,6 @@ Nothing here
   </p>
 </p>
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/acsstudios/derpo)
 
-[product-screenshot]: screenshot.png
+[product-screenshot]: From_Point_to_Tesseract_(Looped_Version).gif
