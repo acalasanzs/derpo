@@ -2,7 +2,7 @@
 Nothing here
 -->
 <p align="center">
-  <a href="https://github.com/acalasanzs/derpo/edit/contributors">
+  <a href="https://github.com/acalasanzs/derpo/contributors">
     <img alt="" src="https://img.shields.io/github/contributors/acalasanzs/derpo?style=for-the-badge" />
   <a/>
   <a href="https://github.com/acalasanzs/derpo/network/members">
