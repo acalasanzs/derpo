@@ -15,7 +15,7 @@ Nothing here
 <br />
 <p align="center">
   <a href="https://github.com/acsstudios/derpo">
-    <img src="images/icon.png" alt="Icon" width="80" height="80">
+    <img src="icon.png" alt="Icon" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
