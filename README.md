@@ -19,19 +19,19 @@ Nothing here
 [license-url]: https://github.com/acsstudios/derpo/blob/main/LICENSE
 <p align="center">
   <a href="https://github.com/acsstudios/derpo/edit/contributors">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/acsstudios/derpo?style=for-the-badge" />
+    <img alt="" src="https://img.shields.io/github/contributors/acsstudios/derpo?style=for-the-badge" />
   <a/>
   <a href="https://github.com/acsstudios/derpo/network/members">
-    <img alt="Contributors" src="https://img.shields.io/github/forks/acsstudios/derpo.svg?style=for-the-badge" />
+    <img alt="" src="https://img.shields.io/github/forks/acsstudios/derpo.svg?style=for-the-badge" />
   <a/>
   <a href="https://github.com/acsstudios/derpo/stargazers">
-    <img alt="Contributors" src="https://img.shields.io/github/stars/acsstudios/derpo.svg?style=for-the-badge" />
+    <img alt="" src="https://img.shields.io/github/stars/acsstudios/derpo.svg?style=for-the-badge" />
   <a/>
   <a href="https://github.com/acsstudios/derpo/issues">
-    <img alt="Contributors" src="https://img.shields.io/github/issues/acsstudios/derpo.svg?style=for-the-badge" />
+    <img alt="" src="https://img.shields.io/github/issues/acsstudios/derpo.svg?style=for-the-badge" />
   <a/>
   <a href="https://github.com/acsstudios/derpo/blob/main/LICENSE">
-    <img alt="Contributors" src="https://img.shields.io/github/license/acsstudios/derpo.svg?style=for-the-badgee" />
+    <img alt="" src="https://img.shields.io/github/license/acsstudios/derpo.svg?style=for-the-badge" />
   <a/>
 </p>
 <!-- PROJECT LOGO -->
