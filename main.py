@@ -1,4 +1,6 @@
 import glfw
+from OpenGL.GL import *
+import OpenGL_accelerate
 import os
 from win32api import GetSystemMetrics
 from PIL import Image
@@ -24,14 +26,18 @@ def main():
     glfw.set_window_pos(win,int(width//2-(width*scale)/2),int(height//2-(height*scale)/2))
 
     # make the context current
-    
-    icon = Image.open("icon.ico")
+
     glfw.make_context_current(win)
+    
+    glClearColor(25/255, 42/255, 86/255, 1)
+
+    # set icon
+    icon = Image.open("icon.ico")
     glfw.set_window_icon(win, 1 ,icon)
     # main loop
     while not glfw.window_should_close(win):
         glfw.poll_events()
-
+        glClear(GL_COLOR_BUFFER_BIT)
         glfw.swap_buffers(win)
         
     glfw.terminate()
