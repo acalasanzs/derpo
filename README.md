@@ -191,6 +191,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [issues-url]: https://github.com/acsstudios/derpo/issues
 
 [license-shield]: https://img.shields.io/github/license/acsstudios/derpo.svg?style=for-the-badge
-[license-url]: https://github.com/acsstudios/derpo/blob/main/LICENSE.txt
+[license-url]: https://github.com/acsstudios/derpo/blob/main/LICENSE
 
 [product-screenshot]: screenshot.png
