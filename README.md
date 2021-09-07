@@ -3,13 +3,14 @@ n-Dimensional Euclidean Renderer Python OpenGL
 <!--
 Nothing here
 -->
-<span align="center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-</span>
+<p align="center">
+  <img alt="Contributors" src="[contributors-shield]" />
+</p>
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
