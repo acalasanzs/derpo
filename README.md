@@ -9,7 +9,7 @@ Nothing here
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 <p align="center">
-  <img alt="Contributors" src=[contributors-shield] />
+  <img alt="Contributors" src="https://img.shields.io/github/contributors/acsstudios/derpo?style=for-the-badge" />
 </p>
 <!-- PROJECT LOGO -->
 <br />
