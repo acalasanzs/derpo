@@ -42,4 +42,6 @@ Nothing here
     <a href="https://github.com/acsstudios/derpo/issues">Request Feature</a>
   </p>
 </p>
-<img alt="" src="From_Point_to_Tesseract_(Looped_Version).gif" align="center" />
+<p align="center">
+    <img alt="" src="From_Point_to_Tesseract_(Looped_Version).gif" />
+</p>
