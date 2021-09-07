@@ -20,7 +20,7 @@ Nothing here
 </p>
     
 # DERPO
-n-Dimensional Euclidean Renderer Python OpenGL
+n-Dimensional Euclidean Renderer Python OpenGL "and Fractal-dimension"
 
 <!-- PROJECT LOGO -->
 <br />
