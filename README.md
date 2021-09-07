@@ -3,13 +3,36 @@ n-Dimensional Euclidean Renderer Python OpenGL
 <!--
 Nothing here
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[contributors-shield]: https://img.shields.io/github/contributors/acsstudios/derpo?style=for-the-badge
+[contributors-url]: https://github.com/acsstudios/derpo/edit/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/acsstudios/derpo.svg?style=for-the-badge
+[forks-url]: https://github.com/acsstudios/derpo/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/acsstudios/derpo.svg?style=for-the-badge
+[stars-url]: https://github.com/acsstudios/derpo/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/acsstudios/derpo.svg?style=for-the-badge
+[issues-url]: https://github.com/acsstudios/derpo/issues
+
+[license-shield]: https://img.shields.io/github/license/acsstudios/derpo.svg?style=for-the-badge
+[license-url]: https://github.com/acsstudios/derpo/blob/main/LICENSE
 <p align="center">
-  <img alt="Contributors" src="https://img.shields.io/github/contributors/acsstudios/derpo?style=for-the-badge" />
+  <a href="https://github.com/acsstudios/derpo/edit/contributors">
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/acsstudios/derpo?style=for-the-badge" />
+  <a/>
+  <a href="https://github.com/acsstudios/derpo/network/members">
+    <img alt="Contributors" src="https://img.shields.io/github/forks/acsstudios/derpo.svg?style=for-the-badge" />
+  <a/>
+  <a href="https://github.com/acsstudios/derpo/stargazers">
+    <img alt="Contributors" src="https://img.shields.io/github/stars/acsstudios/derpo.svg?style=for-the-badge" />
+  <a/>
+  <a href="https://github.com/acsstudios/derpo/issues">
+    <img alt="Contributors" src="https://img.shields.io/github/issues/acsstudios/derpo.svg?style=for-the-badge" />
+  <a/>
+  <a href="https://github.com/acsstudios/derpo/blob/main/LICENSE">
+    <img alt="Contributors" src="https://img.shields.io/github/license/acsstudios/derpo.svg?style=for-the-badgee" />
+  <a/>
 </p>
 <!-- PROJECT LOGO -->
 <br />
@@ -175,25 +198,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
 
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/acsstudios/derpo?style=for-the-badge
-[contributors-url]: https://github.com/acsstudios/derpo/edit/contributors
-
-[forks-shield]: https://img.shields.io/github/forks/acsstudios/derpo.svg?style=for-the-badge
-[forks-url]: https://github.com/acsstudios/derpo/network/members
-
-[stars-shield]: https://img.shields.io/github/stars/acsstudios/derpo.svg?style=for-the-badge
-[stars-url]: https://github.com/acsstudios/derpo/stargazers
-
-[issues-shield]: https://img.shields.io/github/issues/acsstudios/derpo.svg?style=for-the-badge
-[issues-url]: https://github.com/acsstudios/derpo/issues
-
-[license-shield]: https://img.shields.io/github/license/acsstudios/derpo.svg?style=for-the-badge
-[license-url]: https://github.com/acsstudios/derpo/blob/main/LICENSE
 
 [product-screenshot]: screenshot.png
