@@ -180,12 +180,17 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/acsstudios/derpo?style=for-the-badge
 [contributors-url]: https://github.com/acsstudios/derpo/edit/contributors
-[forks-shield]: vhttps://img.shields.io/github/contributors/acsstudios/derpo?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/contributors/acsstudios/derpo?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/contributors/acsstudios/derpo?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/contributors/acsstudios/derpo?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+
+[forks-shield]: https://img.shields.io/github/forks/acsstudios/derpo.svg?style=for-the-badge
+[forks-url]: https://github.com/acsstudios/derpo/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/acsstudios/derpo.svg?style=for-the-badge
+[stars-url]: https://github.com/acsstudios/derpo/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/acsstudios/derpo.svg?style=for-the-badge
+[issues-url]: https://github.com/acsstudios/derpo/issues
+
+[license-shield]: https://img.shields.io/github/license/acsstudios/derpo.svg?style=for-the-badge
+[license-url]: https://github.com/acsstudios/derpo/blob/master/LICENSE.txt
+
 [product-screenshot]: screenshot.png
