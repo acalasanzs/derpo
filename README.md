@@ -8,7 +8,7 @@ Nothing here
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Github stats](https://github-readme-stats.vercel.app/api?username=acsstudios)](https://github.com/acsstudios/derpo)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 
 <!-- PROJECT LOGO -->
