@@ -29,7 +29,7 @@ def main():
 
     glfw.make_context_current(win)
     
-    glClearColor(25/255, 42/255, 86/255, 1)
+    glClearColor(15/255, 32/255, 43/255, 1)
 
     # set icon
     icon = Image.open("icon.ico")
